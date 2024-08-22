@@ -1,6 +1,6 @@
 ## Hi, It's Vitaliy 👋
 
-### I'm a Data Analyst. But not only...)
+### I'm a Data Analyst. But not only...
 
 🛠 Technologies and tools I use:
 - SQL (PostgreSQL, DBeaver, BigQuery)
