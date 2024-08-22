@@ -11,9 +11,12 @@
 - QGIS
 - Salesforce
 
-<!--
  📫 Would you like to reach me?
- - hapanovych@gmail.com
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hapanovych/)
+[<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />](https://public.tableau.com/app/profile/vitaliy.hapanovych/vizzes)
+
+ <!-- - hapanovych@gmail.com
  - https://www.linkedin.com/in/hapanovych/
 -  Upwork Badge 
  
