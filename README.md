@@ -15,8 +15,11 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hapanovych/)
 [<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />](https://public.tableau.com/app/profile/vitaliy.hapanovych/vizzes)
+[<img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />](https://www.upwork.com/freelancers/~0113d76db2e7d01aae)
+[<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />](https://www.salesforce.com/trailblazer/hapanovych)
 
- <!-- - hapanovych@gmail.com
+
+ <!-- - hapanovych@gmail.co
  - https://www.linkedin.com/in/hapanovych/
 -  Upwork Badge 
  
